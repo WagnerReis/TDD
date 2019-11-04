@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chai": "^4.2.0",
     "code": "^5.2.4",
     "coverage": "^0.4.1",
     "jest-cli": "^24.9.0",
@@ -31,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
   }
 }
